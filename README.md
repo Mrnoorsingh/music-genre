@@ -29,3 +29,8 @@ To extract Mel-frequency cepstral coefficients (MFCCs)
 ## Result
 The Fine tuned VGG16 model achieved 55% accuracy on test set and ```60%``` on validation set. On the other hand, K-Nearest Neighbor(k-NN) Algorithm
 achieved ```85%``` accuracy on test set.
+
+## Referenes
+https://arxiv.org/pdf/1804.01149
+
+http://www.speech.cs.cmu.edu/15-492/slides/03_mfcc.pdf
