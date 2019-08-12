@@ -8,7 +8,7 @@ various features are extracted from the clips which are utilized to train machin
 
 To transform audio clips into Mel-Spectrograms , a python package called __Librosa__ is used
 
-The package performs the following implementation step to convert the clip to Melspectorgam :
+The package performs the following implementation steps to convert the clip to Melspectorgam :
 
 * Define the window function and overlap amount
 * Generate window segments(Multiply signal by window function)
