@@ -34,7 +34,7 @@ To extract Mel-frequency cepstral coefficients (MFCCs)
 <p align="center">
   <img width="560" height="450" src="confusion_mat.png">
 </p>  
-<p>
+<p align="center">
     <em>VGG-16 Model Confusion Matrix .</em>
 </p>
 
