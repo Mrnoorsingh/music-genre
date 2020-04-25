@@ -26,6 +26,10 @@ To extract Mel-frequency cepstral coefficients (MFCCs)
 
 (*Source: MathWorks*)
 
+
+
+## Result
+
 <p align="center">
    <img width="560" height="450" src="results.png"
 </p>
@@ -34,7 +38,7 @@ To extract Mel-frequency cepstral coefficients (MFCCs)
 </p>
 
  
- 
+
  
 <p align="center">
   
@@ -44,7 +48,7 @@ To extract Mel-frequency cepstral coefficients (MFCCs)
     <b>VGG-16 Model Confusion Matrix</b>
 </p>
 
-## Result
+
 The Fine tuned VGG16 model achieved 55% accuracy on test set and ```60%``` on validation set. On the other hand, K-Nearest Neighbor(k-NN) Algorithm
 achieved ```85%``` accuracy on test set.
 
