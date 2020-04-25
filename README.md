@@ -30,7 +30,7 @@ To extract Mel-frequency cepstral coefficients (MFCCs)
    <img width="560" height="450" src="results.png"
 </p>
 <p align="center">
-    <em>***Cross-Validation Accuracies on Machine Learning Algorithms .</em>
+    ***Cross-Validation Accuracies on Machine Learning Algorithms
 </p>
 
  
@@ -38,7 +38,7 @@ To extract Mel-frequency cepstral coefficients (MFCCs)
   <img width="560" height="450" src="confusion_mat.png">
 </p>  
 <p align="center">
-    <em>***VGG-16 Model Confusion Matrix*** .</em>
+    ***VGG-16 Model Confusion Matrix***
 </p>
 
 ## Result
