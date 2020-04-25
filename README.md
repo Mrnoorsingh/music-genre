@@ -33,7 +33,6 @@ achieved ```85%``` accuracy on test set.
 ## Referenes
 https://arxiv.org/pdf/1804.01149
 
-Dataset can be downloaded from [here]
-(http://opihi.cs.uvic.ca/sound/genres.tar.gz)
+Dataset can be downloaded from [here](http://opihi.cs.uvic.ca/sound/genres.tar.gz)
 
 http://www.speech.cs.cmu.edu/15-492/slides/03_mfcc.pdf
