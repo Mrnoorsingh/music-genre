@@ -35,11 +35,9 @@ To extract Mel-frequency cepstral coefficients (MFCCs)
 </p>
 <p align="center">
     <b>Cross-Validation Accuracies on Machine Learning Algorithms</b>
+     &nbsp;
+     &nbsp;
 </p>
-
- &nbsp	
- &nbsp
-
  
 <p align="center">
   
